@@ -15,3 +15,7 @@ Aquele que vos fala é um desenvolvedor curioso que se esforça 200% para entreg
 ## Linguagens
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasribeiro&layout=compact&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkedIn' height='30'>](https://www.linkedin.com/in/nicholas-ribeiro-885591188/)
